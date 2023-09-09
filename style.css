@@ -33,8 +33,39 @@ p {
     font-weight: normal;
     line-height: 22px;
     margin: 0 auto 32px;
+    text-align: center;
     
 }
 
+p span {
 
+    color: #3F3D56;
+    font-weight: bold;
 
+}
+
+#footer #line {
+    width: 391px;
+    height: 0px;
+    border: 1px solid #ECEFF2;
+    margin: 0 auto 16px;
+}
+
+#footer a {
+    color: #3F3D56;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+#footer a + a {
+    margin-left: 42px;
+}
+
+#wave {
+    display: block;
+    width: 1024px;
+    height: 104px;
+    margin: 40px auto 0;
+   
+}
